@@ -1,9 +1,9 @@
 # HORNET-RAT
 HORNETrat, also known as 'HORNET Worm,' is a sophisticated .NET-based remote access Trojan (RAT) coded in C#. This malware operates with a high degree of technical sophistication and discretion, exhibiting a comprehensive array of functionalities, reminiscent of a Swiss army knife for cyber espionage.
-
+![cop](https://github.com/queentessaru/HORNET-RAT/assets/142797937/25b52472-25d3-45f3-bc0b-0a54e7bec5d5)
 			Disclaimer: It is important to emphasize that the use of HORNETrat or any similar malware is illegal and unethical. This information is shared solely for educational purposes, and the author and publisher disclaim any responsibility for misuse or unlawful activities associated with this knowledge.
 
-Technical capabilities include:
+## Technical capabilities include:
 
 - Crypto Wallet Scraper: HORNETrat has the ability to clandestinely infiltrate and exfiltrate data from cryptocurrency wallets, utilizing advanced obfuscation techniques to avoid detection by heuristic antivirus scanners.
 
@@ -19,4 +19,5 @@ Technical capabilities include:
 
 - And more, more and more...
 
-Please be aware that HORNETrat and similar malware pose a significant threat to cybersecurity, and any attempt to deploy or use such software for malicious purposes is against the law.
+# Please be aware that HORNETrat and similar malware pose a significant threat to cybersecurity, and any attempt to deploy or use such software for malicious purposes is against the law.
+
